@@ -6,7 +6,7 @@ Shield Insurance is famous for giving solid protection, keeping people safe from
 **Dataset:**
 We've compiled data covering the period from November 2022 to April 2023 across six diverse cities. The dataset encompasses individuals ranging from 18 to 65+, and our focus is on selling nine unique policies through four distinct sales channels.
 
-**General View:**
+## **General View:**
 In the realm of Insurance sales, Delhi stands out by generating a substantial revenue of 401 million, surpassing that of five other cities. This accomplishment can be attributed to a remarkable customer base of 11,007.
 
 March 2023 shines as a standout month, boasting increased revenue, higher insurance sales, and a larger customer base compared to other months. This reflects a peak in performance during this period.
@@ -17,7 +17,7 @@ Notably, the revenue generated from individuals in the 65+ age group exceeds tha
 
 The majority of all customers fall within the age group of 31-40, signifying a strong presence in this demographic.
 
-**Sales View:**
+## **Sales View:**
 Our sales operations encompass four distinct modes: Offline Agent, Offline Direct, Online App, and Online Website.
 
 Among our 26,841 customers, a significant portion—14,873 customers, to be precise—engaged with our services through the Offline Agent channel.
@@ -30,7 +30,7 @@ Over the past six months, we have observed a positive trend in insurance sales t
 
 This strategic overview highlights the dynamics of our sales modes, emphasizing both successful channels and areas for potential improvement.
 
-**Age Group View:**
+## **Age Group View:**
  The age range spanning from 31 to 40 holds the largest share of customers in our demographic, closely trailed by the 41-50 age group.
 
 Within the 31-40 age group, there is a notable surge in insurance sales, with a higher volume of policies purchased compared to other age brackets.
@@ -42,7 +42,7 @@ A distinctive trend emerges in the 51-60 age group's customer count, which exper
 This analysis sheds light on the customer distribution across age groups, their purchasing behaviors, and a noteworthy fluctuation in customer count within the 51-60 age bracket during the month of April.
 
 
-**Key Insights:** 
+## **Key Insights:** 
 1. The 65+ age group generates more revenue than the 51-65, 18-24, and 25-30 age groups, despite having fewer customers, emphasizing a distinct and lucrative market.
 2. In the last six months, online channels showed a sales uptrend for insurance, while Offline Direct Sales declined.
 3. Delhi leads insurance sales, yielding 401 million, surpassing five other cities, thanks to a substantial customer base of 11,007, constituting 41% of total customers.
