@@ -11,7 +11,7 @@ Shield Insurance is famous for giving solid protection, keeping people safe from
 We've compiled data covering the period from November 2022 to April 2023 across five diverse cities. The dataset encompasses individuals ranging from 18 to 65+, and our focus is on selling nine unique policies through four distinct sales channels.
 
 ## **General View:**
-In the realm of Insurance sales, Delhi stands out by generating a substantial revenue of 401 million, surpassing that of five other cities. This accomplishment can be attributed to a remarkable customer base of 11,007.
+In the realm of Insurance sales, Delhi stands out by generating a substantial revenue of 401 million, surpassing that of four other cities. This accomplishment can be attributed to a remarkable customer base of 11,007.
 
 March 2023 shines as a standout month, boasting increased revenue, higher insurance sales, and a larger customer base compared to other months. This reflects a peak in performance during this period.
 
