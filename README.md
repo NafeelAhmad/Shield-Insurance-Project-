@@ -8,7 +8,7 @@
 Shield Insurance is famous for giving solid protection, keeping people safe from life's uncertainties. Their commitment to reliable coverage makes them stand out in the industry.
 
 **Dataset:**
-We've compiled data covering the period from November 2022 to April 2023 across six diverse cities. The dataset encompasses individuals ranging from 18 to 65+, and our focus is on selling nine unique policies through four distinct sales channels.
+We've compiled data covering the period from November 2022 to April 2023 across five diverse cities. The dataset encompasses individuals ranging from 18 to 65+, and our focus is on selling nine unique policies through four distinct sales channels.
 
 ## **General View:**
 In the realm of Insurance sales, Delhi stands out by generating a substantial revenue of 401 million, surpassing that of five other cities. This accomplishment can be attributed to a remarkable customer base of 11,007.
