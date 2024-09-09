@@ -2,6 +2,8 @@
 
 **Youtube Link Presentation:**  https://youtu.be/YiGJq0BXBeE?feature=shared
 
+**PowerBI Live Dashboard Link:**  https://app.powerbi.com/view?r=eyJrIjoiMDRkMmY1YWQtM2NhNC00MDlhLTk2NDUtYjc0OGJkZTE0NTUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection
+
 ## **About Company:**
 Shield Insurance is famous for giving solid protection, keeping people safe from life's uncertainties. Their commitment to reliable coverage makes them stand out in the industry.
 
